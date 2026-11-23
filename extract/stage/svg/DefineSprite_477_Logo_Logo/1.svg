@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="44.7px" width="49.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 6.0, 8.0)">
+    <use ffdec:characterId="475" height="39.1" transform="matrix(0.3122, 0.0, 0.0, 1.1432, -6.0231, -7.9958)" width="159.2" xlink:href="#shape0"/>
+    <use ffdec:characterId="476" height="7.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 24.0)" width="35.0" xlink:href="#text0"/>
+    <use ffdec:characterId="79" height="22.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="38.0" xlink:href="#shape1"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.0, 8.0)">
+      <path d="M153.2 31.1 L-6.0 31.1 -6.0 -8.0 153.2 -8.0 153.2 31.1" fill="#000000" fill-opacity="0.003921569" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text0" transform="matrix(1.0, 0.0, 0.0, 1.0, -54.0, -4.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, 54.0, 0.0)">
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 0.0, 9.0)" width="35.0" xlink:href="#font_uni_05_53_8pt_st_m0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 8.0, 9.0)" width="35.0" xlink:href="#font_uni_05_53_8pt_st_e0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 13.0, 9.0)" width="35.0" xlink:href="#font_uni_05_53_8pt_st_t0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 17.0, 9.0)" width="35.0" xlink:href="#font_uni_05_53_8pt_st_a0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 22.0, 9.0)" width="35.0" xlink:href="#font_uni_05_53_8pt_st_n0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 27.0, 9.0)" width="35.0" xlink:href="#font_uni_05_53_8pt_st_e0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 32.0, 9.0)" width="35.0" xlink:href="#font_uni_05_53_8pt_st_t0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_8pt_st_m0">
+      <path d="M896.0 -256.0 L896.0 128.0 768.0 128.0 768.0 -256.0 896.0 -256.0 M512.0 -256.0 L512.0 128.0 384.0 128.0 384.0 -256.0 512.0 -256.0 512.0 -384.0 768.0 -384.0 768.0 -256.0 512.0 -256.0 M384.0 -256.0 L128.0 -256.0 128.0 128.0 0.0 128.0 0.0 -384.0 384.0 -384.0 384.0 -256.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_e0">
+      <path d="M384.0 0.0 L512.0 0.0 512.0 128.0 128.0 128.0 128.0 0.0 256.0 0.0 256.0 -128.0 384.0 -128.0 384.0 0.0 M128.0 -384.0 L512.0 -384.0 512.0 -128.0 384.0 -128.0 384.0 -256.0 128.0 -256.0 128.0 -384.0 M128.0 -256.0 L128.0 0.0 0.0 0.0 0.0 -256.0 128.0 -256.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_t0">
+      <path d="M256.0 -512.0 L256.0 -384.0 384.0 -384.0 384.0 -256.0 256.0 -256.0 256.0 128.0 128.0 128.0 128.0 -256.0 0.0 -256.0 0.0 -384.0 128.0 -384.0 128.0 -512.0 256.0 -512.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_a0">
+      <path d="M384.0 0.0 L384.0 -256.0 512.0 -256.0 512.0 128.0 128.0 128.0 128.0 0.0 384.0 0.0 M128.0 -256.0 L128.0 0.0 0.0 0.0 0.0 -256.0 128.0 -256.0 128.0 -384.0 384.0 -384.0 384.0 -256.0 128.0 -256.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_n0">
+      <path d="M512.0 -256.0 L512.0 128.0 384.0 128.0 384.0 -256.0 512.0 -256.0 M384.0 -256.0 L128.0 -256.0 128.0 128.0 0.0 128.0 0.0 -384.0 384.0 -384.0 384.0 -256.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, -725.0, -31.0)">
+      <pattern height="22" id="PatternID_79_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 725.0, 31.0)" patternUnits="userSpaceOnUse" viewBox="0 0 38 22" width="38">
+        <image height="22" style="image-rendering:optimizeSpeed; image-rendering:pixelated" width="38" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAWCAYAAACsR+4DAAAAPUlEQVR42mNgYGD4P0jxIHfYzJkzBwUeddiow0YdNmwcRmuPjDps1GGjDqO1w8hVP+qwUYfRzWGjbX4iMQB0R1ESMTYzKwAAAABJRU5ErkJggg=="/>
+      </pattern>
+      <path d="M763.0 53.0 L725.0 53.0 725.0 31.0 763.0 31.0 763.0 53.0" ffdec:fill-bitmapId="78" style="fill:url(#PatternID_79_1)"/>
+    </g>
+  </defs>
+</svg>

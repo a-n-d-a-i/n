@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="139.9px" width="186.85px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 112.6, 79.25)">
+    <use ffdec:characterId="719" height="1.0" transform="matrix(0.9797, -0.1388, 0.1388, 0.9797, -79.6092, 23.6296)" width="21.0" xlink:href="#sprite0"/>
+    <use ffdec:characterId="721" height="6.0" transform="matrix(0.8452, -0.509, 0.509, 0.8452, -62.131, 18.6295)" width="20.0" xlink:href="#sprite1"/>
+    <use ffdec:characterId="719" height="1.0" transform="matrix(0.8675, 0.4731, -0.4731, 0.8675, -78.4472, 23.6297)" width="21.0" xlink:href="#sprite2"/>
+    <use ffdec:characterId="721" height="6.0" transform="matrix(0.8584, -0.4877, 0.4877, 0.8584, -63.3138, 30.6834)" width="20.0" xlink:href="#sprite3"/>
+    <use ffdec:characterId="724" height="1.0" transform="matrix(0.9721, -0.2164, 0.2164, 0.9721, -53.0942, 32.7221)" width="31.0" xlink:href="#sprite4"/>
+    <use ffdec:characterId="725" height="12.0" transform="matrix(0.9903, -0.0439, 0.0439, 0.9903, -24.111, 20.8576)" width="30.0" xlink:href="#sprite5"/>
+    <use ffdec:characterId="724" height="1.0" transform="matrix(0.9691, 0.1845, -0.186, 0.9771, -53.1915, 33.2192)" width="31.0" xlink:href="#sprite6"/>
+    <use ffdec:characterId="725" height="12.0" transform="matrix(0.9719, 0.207, -0.207, 0.9719, -28.1181, 32.3173)" width="30.0" xlink:href="#sprite7"/>
+    <use ffdec:characterId="714" height="1.0" transform="matrix(-0.9674, -0.2378, 0.2378, -0.9674, -52.2352, 34.2026)" width="16.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="714" height="1.0" transform="matrix(-0.8652, -0.4859, -0.4859, 0.8652, -66.1244, 30.2103)" width="16.0" xlink:href="#sprite9"/>
+    <use ffdec:characterId="716" height="18.5" transform="matrix(-0.9796, -0.1729, 0.1729, -0.9796, -84.2942, 39.9124)" width="11.0" xlink:href="#sprite10"/>
+    <use ffdec:characterId="737" height="0.0" id="footL" transform="matrix(1.0, 0.0, 0.0, 1.0, -24.0, 33.0)" width="0.0" xlink:href="#sprite11"/>
+    <use ffdec:characterId="737" height="0.0" id="footR" transform="matrix(1.0, 0.0, 0.0, 1.0, 23.15, 35.2)" width="0.0" xlink:href="#sprite11"/>
+    <use ffdec:characterId="737" height="0.0" id="handL" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.6, -43.2)" width="0.0" xlink:href="#sprite11"/>
+    <use ffdec:characterId="737" height="0.0" id="handR" transform="matrix(1.0, 0.0, 0.0, 1.0, 21.1, -73.5)" width="0.0" xlink:href="#sprite11"/>
+    <use ffdec:characterId="737" height="0.0" id="pelvis" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.45, -18.6)" width="0.0" xlink:href="#sprite11"/>
+    <use ffdec:characterId="737" height="0.0" id="shoulder" transform="matrix(1.0, 0.0, 0.0, 1.0, -5.6, -44.2)" width="0.0" xlink:href="#sprite11"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="718" height="1.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="21.0" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <path d="M0.0 0.0 L20.0 0.0" ffdec:has-small-stroke="true" ffdec:original-stroke-width="1.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0106674056584415" vector-effect="non-scaling-stroke"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.15, 3.25)">
+      <use ffdec:characterId="720" height="12.0" transform="matrix(0.6667, 0.0, 0.0, 0.5, -0.15, -3.275)" width="30.0" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 5.95)">
+      <path d="M0.0 0.0 L30.0 -5.95 30.0 6.05 0.0 0.0" fill="#333333" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.0 0.0 L30.0 -5.95 30.0 6.05 0.0 0.0 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7200808713112765"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="718" height="1.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="21.0" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <path d="M0.0 0.0 L20.0 0.0" ffdec:has-small-stroke="true" ffdec:original-stroke-width="1.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.012045653085674" vector-effect="non-scaling-stroke"/>
+    </g>
+    <g id="sprite3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.15, 3.25)">
+      <use ffdec:characterId="720" height="12.0" transform="matrix(0.6667, 0.0, 0.0, 0.5, -0.15, -3.275)" width="30.0" xlink:href="#shape3"/>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 5.95)">
+      <path d="M0.0 0.0 L30.0 -5.95 30.0 6.05 0.0 0.0" fill="#333333" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.0 0.0 L30.0 -5.95 30.0 6.05 0.0 0.0 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7189312933237106"/>
+    </g>
+    <g id="sprite4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="723" height="1.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="31.0" xlink:href="#shape4"/>
+    </g>
+    <g id="shape4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <path d="M0.0 0.0 L30.0 0.0" ffdec:has-small-stroke="true" ffdec:original-stroke-width="1.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.004145685205348" vector-effect="non-scaling-stroke"/>
+    </g>
+    <g id="sprite5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 5.95)">
+      <use ffdec:characterId="720" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -5.95)" width="30.0" xlink:href="#shape5"/>
+    </g>
+    <g id="shape5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 5.95)">
+      <path d="M0.0 0.0 L30.0 -5.95 30.0 6.05 0.0 0.0" fill="#333333" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.0 0.0 L30.0 -5.95 30.0 6.05 0.0 0.0 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0087793087722057"/>
+    </g>
+    <g id="sprite6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="723" height="1.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="31.0" xlink:href="#shape6"/>
+    </g>
+    <g id="shape6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <path d="M0.0 0.0 L30.0 0.0" ffdec:has-small-stroke="true" ffdec:original-stroke-width="1.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0095039492215434" vector-effect="non-scaling-stroke"/>
+    </g>
+    <g id="sprite7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 5.95)">
+      <use ffdec:characterId="720" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -5.95)" width="30.0" xlink:href="#shape7"/>
+    </g>
+    <g id="shape7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 5.95)">
+      <path d="M0.0 0.0 L30.0 -5.95 30.0 6.05 0.0 0.0" fill="#333333" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.0 0.0 L30.0 -5.95 30.0 6.05 0.0 0.0 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0063524190555622"/>
+    </g>
+    <g id="sprite8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="713" height="1.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="16.0" xlink:href="#shape8"/>
+    </g>
+    <g id="shape8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <path d="M0.0 0.0 L15.0 0.0" ffdec:has-small-stroke="true" ffdec:original-stroke-width="1.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0037882804777418" vector-effect="non-scaling-stroke"/>
+    </g>
+    <g id="sprite9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="713" height="1.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="16.0" xlink:href="#shape9"/>
+    </g>
+    <g id="shape9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <path d="M0.0 0.0 L15.0 0.0" ffdec:has-small-stroke="true" ffdec:original-stroke-width="1.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0077293946255204" vector-effect="non-scaling-stroke"/>
+    </g>
+    <g id="sprite10" transform="matrix(1.0, 0.0, 0.0, 1.0, -3.0, 15.65)">
+      <use ffdec:characterId="715" height="18.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 3.0, -15.65)" width="11.0" xlink:href="#shape10"/>
+    </g>
+    <g id="shape10" transform="matrix(1.0, 0.0, 0.0, 1.0, -3.0, 15.65)">
+      <path d="M13.15 2.55 L3.0 2.85 14.0 -15.65 13.15 2.55" fill="#333333" fill-rule="evenodd" stroke="none"/>
+      <path d="M13.15 2.55 L14.0 -15.65 3.0 2.85 13.15 2.55 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.005277977432718"/>
+    </g>
+    <g id="sprite11" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="736" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="0.0" xlink:href="#sprite12"/>
+    </g>
+  </defs>
+</svg>

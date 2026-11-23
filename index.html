@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>N v2 — HTML5/WebGL</title>
+<link rel="icon" href="data:,">
+<style>
+  html, body { margin: 0; padding: 0; width: 100%; height: 100%; background: #111; overflow: hidden; }
+  #game { display: block; width: 100vw; height: 100vh; image-rendering: pixelated; }
+  #loading {
+    position: fixed; inset: 0; display: flex; align-items: center; justify-content: center;
+    color: #ddd; background: #111; font: 14px monospace; z-index: 10; flex-direction: column; gap: 12px;
+  }
+  #bar { width: 240px; height: 4px; background: #333; }
+  #bar > div { height: 100%; width: 0; background: #aaa; }
+  #err { color: #f88; white-space: pre-wrap; max-width: 80vw; font: 12px monospace; }
+</style>
+</head>
+<body>
+<canvas id="game"></canvas>
+<div id="loading">
+  <div>loading N v2…</div>
+  <div id="bar"><div></div></div>
+  <div id="err"></div>
+</div>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

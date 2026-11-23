@@ -1,0 +1,15 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol548")]
+   public dynamic class asset_thumbnail_gfx_switch_locked extends MovieClip
+   {
+      
+      public function asset_thumbnail_gfx_switch_locked()
+      {
+         super();
+      }
+   }
+}
+

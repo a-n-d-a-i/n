@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="30.1px" width="47.4px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 2.85, 14.05)">
+    <use ffdec:characterId="714" height="1.0" transform="matrix(0.2209, 0.9717, -0.9717, 0.2209, 0.3754, -0.5963)" width="16.0" xlink:href="#sprite0"/>
+    <use ffdec:characterId="714" height="1.0" transform="matrix(0.2416, -0.9662, 0.9662, 0.2416, 2.8961, 15.3623)" width="16.0" xlink:href="#sprite1"/>
+    <use ffdec:characterId="716" height="18.5" transform="matrix(0.3337, -0.9391, -0.9391, -0.3337, 22.8473, 2.9551)" width="11.0" xlink:href="#sprite2"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="713" height="1.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="16.0" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <path d="M0.0 0.0 L15.0 0.0" ffdec:has-small-stroke="true" ffdec:original-stroke-width="1.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0035126975264095" vector-effect="non-scaling-stroke"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="713" height="1.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="16.0" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <path d="M0.0 0.0 L15.0 0.0" ffdec:has-small-stroke="true" ffdec:original-stroke-width="1.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0040309955574636" vector-effect="non-scaling-stroke"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, -3.0, 15.65)">
+      <use ffdec:characterId="715" height="18.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 3.0, -15.65)" width="11.0" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, -3.0, 15.65)">
+      <path d="M13.15 2.55 L3.0 2.85 14.0 -15.65 13.15 2.55" fill="#333333" fill-rule="evenodd" stroke="none"/>
+      <path d="M13.15 2.55 L14.0 -15.65 3.0 2.85 13.15 2.55 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0034280939718518"/>
+    </g>
+  </defs>
+</svg>

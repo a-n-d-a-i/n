@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="1458.05px" width="1371.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 294.95, 370.65)">
+    <use ffdec:characterId="255" height="1458.05" transform="matrix(1.0, 0.0, 0.0, 1.0, -294.95, -370.65)" width="1371.7" xlink:href="#shape0"/>
+    <use ffdec:characterId="261" ffdec:characterName="KeyBindingLeft1" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 441.5, 220.5)" width="58.55" xlink:href="#sprite0"/>
+    <use ffdec:characterId="262" ffdec:characterName="KeyBindingJump1" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 506.5, 220.5)" width="58.55" xlink:href="#sprite2"/>
+    <use ffdec:characterId="263" ffdec:characterName="KeyBindingRight1" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 573.5, 220.5)" width="58.55" xlink:href="#sprite3"/>
+    <use ffdec:characterId="264" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 446.0, 202.0)" width="32.0" xlink:href="#text1"/>
+    <use ffdec:characterId="265" height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 510.0, 202.0)" width="46.0" xlink:href="#text2"/>
+    <use ffdec:characterId="266" height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 579.0, 202.0)" width="44.0" xlink:href="#text3"/>
+    <use ffdec:characterId="267" height="14.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 446.0, 367.0)" width="54.0" xlink:href="#text4"/>
+    <use ffdec:characterId="268" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 639.0, 201.0)" width="62.0" xlink:href="#text5"/>
+    <use ffdec:characterId="269" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 67.0, 302.0)" width="66.0" xlink:href="#text6"/>
+    <use ffdec:characterId="270" ffdec:characterName="KeyBindingPause" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 441.5, 381.5)" width="58.55" xlink:href="#sprite4"/>
+    <use ffdec:characterId="271" ffdec:characterName="KeyBindingSuicide1" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 638.5, 220.5)" width="58.55" xlink:href="#sprite5"/>
+    <use ffdec:characterId="272" ffdec:characterName="KeyBindingLeft2" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 441.5, 300.5)" width="58.55" xlink:href="#sprite6"/>
+    <use ffdec:characterId="273" ffdec:characterName="KeyBindingJump2" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 506.5, 300.5)" width="58.55" xlink:href="#sprite7"/>
+    <use ffdec:characterId="274" ffdec:characterName="KeyBindingRight2" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 573.5, 300.5)" width="58.55" xlink:href="#sprite8"/>
+    <use ffdec:characterId="264" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 446.0, 282.0)" width="32.0" xlink:href="#text1"/>
+    <use ffdec:characterId="265" height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 510.0, 282.0)" width="46.0" xlink:href="#text2"/>
+    <use ffdec:characterId="266" height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 579.0, 282.0)" width="44.0" xlink:href="#text3"/>
+    <use ffdec:characterId="268" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 639.0, 281.0)" width="62.0" xlink:href="#text5"/>
+    <use ffdec:characterId="275" ffdec:characterName="KeyBindingSuicide2" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 638.5, 300.5)" width="58.55" xlink:href="#sprite9"/>
+    <use ffdec:characterId="276" height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 446.0, 183.0)" width="64.0" xlink:href="#text7"/>
+    <use ffdec:characterId="277" height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 445.0, 263.0)" width="70.0" xlink:href="#text8"/>
+    <use ffdec:characterId="254" ffdec:characterName="VolumeSlider" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 159.0, 302.0)" width="0.0" xlink:href="#sprite10"/>
+    <use ffdec:characterId="309" ffdec:characterName="KeyBindingMenuLeft" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 441.5, 457.5)" width="58.55" xlink:href="#sprite12"/>
+    <use ffdec:characterId="310" ffdec:characterName="KeyBindingMenuUp" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 506.5, 457.5)" width="58.55" xlink:href="#sprite13"/>
+    <use ffdec:characterId="311" ffdec:characterName="KeyBindingMenuRight" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 573.5, 457.5)" width="58.55" xlink:href="#sprite14"/>
+    <use ffdec:characterId="264" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 446.0, 439.0)" width="32.0" xlink:href="#text1"/>
+    <use ffdec:characterId="312" height="14.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 512.0, 441.0)" width="24.0" xlink:href="#text9"/>
+    <use ffdec:characterId="266" height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 579.0, 439.0)" width="44.0" xlink:href="#text3"/>
+    <use ffdec:characterId="313" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 642.0, 439.0)" width="50.0" xlink:href="#text10"/>
+    <use ffdec:characterId="314" ffdec:characterName="KeyBindingMenuDown" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 638.5, 457.5)" width="58.55" xlink:href="#sprite15"/>
+    <use ffdec:characterId="315" height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 445.0, 420.0)" width="136.0" xlink:href="#text11"/>
+    <use ffdec:characterId="316" height="30.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 33.0, 33.0)" width="136.0" xlink:href="#text12"/>
+    <use ffdec:characterId="317" ffdec:characterName="KeyBindingMenuSelect" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 441.5, 505.5)" width="58.55" xlink:href="#sprite16"/>
+    <use ffdec:characterId="318" ffdec:characterName="KeyBindingMenuBack" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 506.5, 505.5)" width="58.55" xlink:href="#sprite17"/>
+    <use ffdec:characterId="319" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 446.0, 487.0)" width="28.0" xlink:href="#text13"/>
+    <use ffdec:characterId="320" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 510.0, 487.0)" width="44.0" xlink:href="#text14"/>
+    <use ffdec:characterId="31" ffdec:characterName="ReturnToMenuButton" height="21.0" id="returnButton" transform="matrix(1.0, 0.0, 0.0, 1.0, 665.55, 548.5)" width="102.85" xlink:href="#sprite18"/>
+    <use ffdec:characterId="322" ffdec:characterName="ClearLocalDataButton" height="21.0" id="clearButton" transform="matrix(1.0, 0.0, 0.0, 1.0, 557.55, 548.5)" width="102.85" xlink:href="#sprite20"/>
+    <use ffdec:characterId="323" height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 445.0, 61.0)" width="114.0" xlink:href="#text17"/>
+    <use ffdec:characterId="324" height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 446.0, 159.0)" width="56.0" xlink:href="#text18"/>
+    <use ffdec:characterId="325" ffdec:characterName="KeyBindingLeftSolo" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 441.5, 100.5)" width="58.55" xlink:href="#sprite21"/>
+    <use ffdec:characterId="326" ffdec:characterName="KeyBindingJumpSolo" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 506.5, 100.5)" width="58.55" xlink:href="#sprite22"/>
+    <use ffdec:characterId="327" ffdec:characterName="KeyBindingRightSolo" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 573.5, 100.5)" width="58.55" xlink:href="#sprite23"/>
+    <use ffdec:characterId="264" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 446.0, 82.0)" width="32.0" xlink:href="#text1"/>
+    <use ffdec:characterId="265" height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 510.0, 82.0)" width="46.0" xlink:href="#text2"/>
+    <use ffdec:characterId="266" height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 579.0, 82.0)" width="44.0" xlink:href="#text3"/>
+    <use ffdec:characterId="268" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 639.0, 81.0)" width="62.0" xlink:href="#text5"/>
+    <use ffdec:characterId="328" ffdec:characterName="KeyBindingSuicideSolo" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 638.5, 100.5)" width="58.55" xlink:href="#sprite24"/>
+    <use ffdec:characterId="330" ffdec:characterName="FlavourSelection" height="146.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 65.5, 382.5)" width="344.95" xlink:href="#sprite25"/>
+    <use ffdec:characterId="331" height="12.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 69.0, 358.0)" width="78.0" xlink:href="#text19"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 294.95, 370.65)">
+      <path d="M768.65 -49.55 L-13.4 636.4 -46.05 599.1 736.05 -86.8 768.65 -49.55 M1028.85 247.0 L246.7 932.95 233.45 917.8 1015.6 231.85 1028.85 247.0 M1076.75 301.65 L294.65 987.6 276.3 966.65 1058.4 280.75 1076.75 301.65 M964.5 173.7 L182.45 859.65 140.6 811.95 922.75 126.0 964.5 173.7 M899.25 99.3 L117.15 785.2 37.65 694.55 819.75 8.6 899.25 99.3 M506.55 -348.55 L-275.6 337.35 -294.95 315.3 487.15 -370.65 506.55 -348.55 M611.6 -228.7 L-170.45 457.2 -208.25 414.15 573.85 -271.75 611.6 -228.7 M-143.95 487.45 L638.15 -198.5 717.7 -107.7 -64.35 578.2 -143.95 487.45" fill="#797988" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none"/>
+      <path d="M285.55 1032.65 L223.6 1086.9" fill="none" stroke="#00ff00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+      <path d="M796.0 596.0 L0.0 596.0 0.0 0.0 796.0 0.0 796.0 596.0 Z" fill="none" stroke="#d6d6d6" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0"/>
+    </g>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.3, 0.5)">
+      <use ffdec:characterId="256" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.3, -0.5)" width="58.55" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.3, 0.5)">
+      <path d="M57.75 20.0 L0.2 20.0 0.2 0.0 57.75 0.0 57.75 20.0" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M57.75 20.0 L0.2 20.0 0.2 0.0 57.75 0.0 57.75 20.0 Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="text1" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="32.0" xlink:href="#font_uni_05_53_16pt_st_l0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 4.0, 18.0)" width="32.0" xlink:href="#font_uni_05_53_16pt_st_e0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 14.0, 18.0)" width="32.0" xlink:href="#font_uni_05_53_16pt_st_f0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 20.0, 18.0)" width="32.0" xlink:href="#font_uni_05_53_16pt_st_t0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 28.0, 18.0)" width="32.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_l0">
+      <path d="M128.0 -576.0 L128.0 64.0 0.0 64.0 0.0 -576.0 128.0 -576.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_e0">
+      <path d="M256.0 -192.0 L384.0 -192.0 384.0 -64.0 512.0 -64.0 512.0 64.0 128.0 64.0 128.0 -64.0 256.0 -64.0 256.0 -192.0 M128.0 -448.0 L512.0 -448.0 512.0 -192.0 384.0 -192.0 384.0 -320.0 128.0 -320.0 128.0 -448.0 M128.0 -320.0 L128.0 -64.0 0.0 -64.0 0.0 -320.0 128.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_f0">
+      <path d="M128.0 -448.0 L128.0 -320.0 256.0 -320.0 256.0 -192.0 128.0 -192.0 128.0 64.0 0.0 64.0 0.0 -448.0 128.0 -448.0 128.0 -576.0 256.0 -576.0 256.0 -448.0 128.0 -448.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_t0">
+      <path d="M256.0 -576.0 L256.0 -448.0 384.0 -448.0 384.0 -320.0 256.0 -320.0 256.0 64.0 128.0 64.0 128.0 -320.0 0.0 -320.0 0.0 -448.0 128.0 -448.0 128.0 -576.0 256.0 -576.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_:0">
+      <path d="M128.0 -192.0 L256.0 -192.0 256.0 -64.0 128.0 -64.0 128.0 -192.0 M256.0 -320.0 L128.0 -320.0 128.0 -448.0 256.0 -448.0 256.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text2" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="46.0" xlink:href="#font_uni_05_53_16pt_st_j0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 6.0, 18.0)" width="46.0" xlink:href="#font_uni_05_53_16pt_st_u0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 16.0, 18.0)" width="46.0" xlink:href="#font_uni_05_53_16pt_st_m0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 32.0, 18.0)" width="46.0" xlink:href="#font_uni_05_53_16pt_st_p0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 42.0, 18.0)" width="46.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_j0">
+      <path d="M128.0 192.0 L128.0 320.0 0.0 320.0 0.0 192.0 128.0 192.0 128.0 -320.0 256.0 -320.0 256.0 192.0 128.0 192.0 M256.0 -576.0 L256.0 -448.0 128.0 -448.0 128.0 -576.0 256.0 -576.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_u0">
+      <path d="M384.0 -64.0 L384.0 -448.0 512.0 -448.0 512.0 64.0 128.0 64.0 128.0 -64.0 384.0 -64.0 M128.0 -448.0 L128.0 -64.0 0.0 -64.0 0.0 -448.0 128.0 -448.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_m0">
+      <path d="M896.0 -320.0 L896.0 64.0 768.0 64.0 768.0 -320.0 896.0 -320.0 M512.0 -320.0 L512.0 64.0 384.0 64.0 384.0 -320.0 512.0 -320.0 512.0 -448.0 768.0 -448.0 768.0 -320.0 512.0 -320.0 M384.0 -320.0 L128.0 -320.0 128.0 64.0 0.0 64.0 0.0 -448.0 384.0 -448.0 384.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_p0">
+      <path d="M384.0 -320.0 L512.0 -320.0 512.0 -64.0 384.0 -64.0 384.0 -320.0 128.0 -320.0 128.0 -64.0 384.0 -64.0 384.0 64.0 128.0 64.0 128.0 320.0 0.0 320.0 0.0 -448.0 384.0 -448.0 384.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text3" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="44.0" xlink:href="#font_uni_05_53_16pt_st_r0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 8.0, 18.0)" width="44.0" xlink:href="#font_uni_05_53_16pt_st_i0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 12.0, 18.0)" width="44.0" xlink:href="#font_uni_05_53_16pt_st_g0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 22.0, 18.0)" width="44.0" xlink:href="#font_uni_05_53_16pt_st_h0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 32.0, 18.0)" width="44.0" xlink:href="#font_uni_05_53_16pt_st_t0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 40.0, 18.0)" width="44.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_r0">
+      <path d="M128.0 -320.0 L256.0 -320.0 256.0 -192.0 128.0 -192.0 128.0 64.0 0.0 64.0 0.0 -448.0 128.0 -448.0 128.0 -320.0 M256.0 -320.0 L256.0 -448.0 384.0 -448.0 384.0 -320.0 256.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_i0">
+      <path d="M128.0 -320.0 L128.0 64.0 0.0 64.0 0.0 -320.0 128.0 -320.0 M128.0 -576.0 L128.0 -448.0 0.0 -448.0 0.0 -576.0 128.0 -576.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_g0">
+      <path d="M384.0 320.0 L128.0 320.0 128.0 192.0 384.0 192.0 384.0 320.0 M384.0 -64.0 L384.0 -320.0 512.0 -320.0 512.0 192.0 384.0 192.0 384.0 64.0 128.0 64.0 128.0 -64.0 384.0 -64.0 M128.0 -320.0 L128.0 -64.0 0.0 -64.0 0.0 -320.0 128.0 -320.0 128.0 -448.0 384.0 -448.0 384.0 -320.0 128.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_h0">
+      <path d="M512.0 -320.0 L512.0 64.0 384.0 64.0 384.0 -320.0 512.0 -320.0 M128.0 -576.0 L128.0 -448.0 384.0 -448.0 384.0 -320.0 128.0 -320.0 128.0 64.0 0.0 64.0 0.0 -576.0 128.0 -576.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text4" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -10.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="14.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="54.0" xlink:href="#font_uni_05_53_16pt_st_p0"/>
+        <use fill="#000000" height="14.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 10.0, 18.0)" width="54.0" xlink:href="#font_uni_05_53_16pt_st_a0"/>
+        <use fill="#000000" height="14.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 20.0, 18.0)" width="54.0" xlink:href="#font_uni_05_53_16pt_st_u0"/>
+        <use fill="#000000" height="14.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 30.0, 18.0)" width="54.0" xlink:href="#font_uni_05_53_16pt_st_s0"/>
+        <use fill="#000000" height="14.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 40.0, 18.0)" width="54.0" xlink:href="#font_uni_05_53_16pt_st_e0"/>
+        <use fill="#000000" height="14.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 50.0, 18.0)" width="54.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_a0">
+      <path d="M384.0 -64.0 L384.0 -320.0 512.0 -320.0 512.0 64.0 128.0 64.0 128.0 -64.0 384.0 -64.0 M128.0 -320.0 L128.0 -64.0 0.0 -64.0 0.0 -320.0 128.0 -320.0 128.0 -448.0 384.0 -448.0 384.0 -320.0 128.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_s0">
+      <path d="M256.0 -192.0 L512.0 -192.0 512.0 -64.0 384.0 -64.0 384.0 64.0 0.0 64.0 0.0 -64.0 256.0 -64.0 256.0 -192.0 0.0 -192.0 0.0 -320.0 128.0 -320.0 128.0 -448.0 512.0 -448.0 512.0 -320.0 256.0 -320.0 256.0 -192.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text5" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="62.0" xlink:href="#font_uni_05_53_16pt_st_s0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 10.0, 18.0)" width="62.0" xlink:href="#font_uni_05_53_16pt_st_u0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 20.0, 18.0)" width="62.0" xlink:href="#font_uni_05_53_16pt_st_i0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 24.0, 18.0)" width="62.0" xlink:href="#font_uni_05_53_16pt_st_c0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 34.0, 18.0)" width="62.0" xlink:href="#font_uni_05_53_16pt_st_i0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 38.0, 18.0)" width="62.0" xlink:href="#font_uni_05_53_16pt_st_d0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 48.0, 18.0)" width="62.0" xlink:href="#font_uni_05_53_16pt_st_e0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 58.0, 18.0)" width="62.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_c0">
+      <path d="M512.0 -64.0 L512.0 64.0 128.0 64.0 128.0 -64.0 512.0 -64.0 M128.0 -448.0 L512.0 -448.0 512.0 -320.0 128.0 -320.0 128.0 -448.0 M128.0 -320.0 L128.0 -64.0 0.0 -64.0 0.0 -320.0 128.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_d0">
+      <path d="M128.0 -448.0 L384.0 -448.0 384.0 -576.0 512.0 -576.0 512.0 64.0 128.0 64.0 128.0 -64.0 384.0 -64.0 384.0 -320.0 128.0 -320.0 128.0 -448.0 M128.0 -320.0 L128.0 -64.0 0.0 -64.0 0.0 -320.0 128.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text6" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="66.0" xlink:href="#font_uni_05_53_16pt_st_V0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 12.0, 18.0)" width="66.0" xlink:href="#font_uni_05_53_16pt_st_o0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 22.0, 18.0)" width="66.0" xlink:href="#font_uni_05_53_16pt_st_l0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 26.0, 18.0)" width="66.0" xlink:href="#font_uni_05_53_16pt_st_u0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 36.0, 18.0)" width="66.0" xlink:href="#font_uni_05_53_16pt_st_m0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 52.0, 18.0)" width="66.0" xlink:href="#font_uni_05_53_16pt_st_e0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 62.0, 18.0)" width="66.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_V0">
+      <path d="M384.0 -192.0 L512.0 -192.0 512.0 -64.0 384.0 -64.0 384.0 -192.0 M384.0 -64.0 L384.0 64.0 256.0 64.0 256.0 -64.0 384.0 -64.0 M128.0 -192.0 L256.0 -192.0 256.0 -64.0 128.0 -64.0 128.0 -192.0 0.0 -192.0 0.0 -576.0 128.0 -576.0 128.0 -192.0 M640.0 -576.0 L640.0 -192.0 512.0 -192.0 512.0 -576.0 640.0 -576.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_o0">
+      <path d="M384.0 -320.0 L512.0 -320.0 512.0 -64.0 384.0 -64.0 384.0 -320.0 128.0 -320.0 128.0 -448.0 384.0 -448.0 384.0 -320.0 M384.0 -64.0 L384.0 64.0 128.0 64.0 128.0 -64.0 384.0 -64.0 M128.0 -320.0 L128.0 -64.0 0.0 -64.0 0.0 -320.0 128.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="text7" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="64.0" xlink:href="#font_uni_05_53_16pt_st_P0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 12.0, 18.0)" width="64.0" xlink:href="#font_uni_05_53_16pt_st_l0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 16.0, 18.0)" width="64.0" xlink:href="#font_uni_05_53_16pt_st_a0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 26.0, 18.0)" width="64.0" xlink:href="#font_uni_05_53_16pt_st_y0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 36.0, 18.0)" width="64.0" xlink:href="#font_uni_05_53_16pt_st_e0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 46.0, 18.0)" width="64.0" xlink:href="#font_uni_05_53_16pt_st_r0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 60.0, 18.0)" width="64.0" xlink:href="#font_uni_05_53_16pt_st_10"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_P0">
+      <path d="M640.0 -320.0 L512.0 -320.0 512.0 -448.0 640.0 -448.0 640.0 -320.0 M128.0 -320.0 L512.0 -320.0 512.0 -192.0 128.0 -192.0 128.0 64.0 0.0 64.0 0.0 -576.0 512.0 -576.0 512.0 -448.0 128.0 -448.0 128.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_y0">
+      <path d="M384.0 320.0 L128.0 320.0 128.0 192.0 384.0 192.0 384.0 320.0 M384.0 -64.0 L384.0 -448.0 512.0 -448.0 512.0 192.0 384.0 192.0 384.0 64.0 128.0 64.0 128.0 -64.0 384.0 -64.0 M128.0 -448.0 L128.0 -64.0 0.0 -64.0 0.0 -448.0 128.0 -448.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_10">
+      <path d="M256.0 -576.0 L256.0 64.0 128.0 64.0 128.0 -448.0 0.0 -448.0 0.0 -576.0 256.0 -576.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text8" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="70.0" xlink:href="#font_uni_05_53_16pt_st_P0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 12.0, 18.0)" width="70.0" xlink:href="#font_uni_05_53_16pt_st_l0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 16.0, 18.0)" width="70.0" xlink:href="#font_uni_05_53_16pt_st_a0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 26.0, 18.0)" width="70.0" xlink:href="#font_uni_05_53_16pt_st_y0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 36.0, 18.0)" width="70.0" xlink:href="#font_uni_05_53_16pt_st_e0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 46.0, 18.0)" width="70.0" xlink:href="#font_uni_05_53_16pt_st_r0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 60.0, 18.0)" width="70.0" xlink:href="#font_uni_05_53_16pt_st_20"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_20">
+      <path d="M0.0 -448.0 L0.0 -576.0 512.0 -576.0 512.0 -448.0 0.0 -448.0 M128.0 -320.0 L512.0 -320.0 512.0 -448.0 640.0 -448.0 640.0 -192.0 128.0 -192.0 128.0 -320.0 M128.0 -192.0 L128.0 -64.0 640.0 -64.0 640.0 64.0 0.0 64.0 0.0 -192.0 128.0 -192.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite10" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="249" height="0.0" id="bar" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="0.0" xlink:href="#sprite11"/>
+    </g>
+    <g id="sprite11" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="248" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="96.0" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M0.0 0.0 L96.0 0.0" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    </g>
+    <g id="sprite12" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite13" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite14" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="text9" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -10.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="14.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="24.0" xlink:href="#font_uni_05_53_16pt_st_u0"/>
+        <use fill="#000000" height="14.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 10.0, 18.0)" width="24.0" xlink:href="#font_uni_05_53_16pt_st_p0"/>
+        <use fill="#000000" height="14.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 20.0, 18.0)" width="24.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="text10" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="50.0" xlink:href="#font_uni_05_53_16pt_st_d0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 10.0, 18.0)" width="50.0" xlink:href="#font_uni_05_53_16pt_st_o0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 20.0, 18.0)" width="50.0" xlink:href="#font_uni_05_53_16pt_st_w0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 36.0, 18.0)" width="50.0" xlink:href="#font_uni_05_53_16pt_st_n0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 46.0, 18.0)" width="50.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_w0">
+      <path d="M768.0 -448.0 L896.0 -448.0 896.0 -64.0 768.0 -64.0 768.0 -448.0 M768.0 -64.0 L768.0 64.0 512.0 64.0 512.0 -64.0 768.0 -64.0 M384.0 -448.0 L512.0 -448.0 512.0 -64.0 384.0 -64.0 384.0 -448.0 M384.0 -64.0 L384.0 64.0 128.0 64.0 128.0 -64.0 384.0 -64.0 M128.0 -448.0 L128.0 -64.0 0.0 -64.0 0.0 -448.0 128.0 -448.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_n0">
+      <path d="M512.0 -320.0 L512.0 64.0 384.0 64.0 384.0 -320.0 512.0 -320.0 M384.0 -320.0 L128.0 -320.0 128.0 64.0 0.0 64.0 0.0 -448.0 384.0 -448.0 384.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="text11" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_m0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 16.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_e0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 26.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_n0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 36.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_u0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 52.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_n0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 62.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_a0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 72.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_v0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 82.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_i0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 86.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_g0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 96.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_a0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 106.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_t0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 114.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_i0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 118.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_o0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 128.0, 18.0)" width="136.0" xlink:href="#font_uni_05_53_16pt_st_n0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_v0">
+      <path d="M384.0 -448.0 L512.0 -448.0 512.0 -64.0 384.0 -64.0 384.0 -448.0 M384.0 -64.0 L384.0 64.0 128.0 64.0 128.0 -64.0 384.0 -64.0 M128.0 -448.0 L128.0 -64.0 0.0 -64.0 0.0 -448.0 128.0 -448.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text12" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -17.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+        <use fill="#000000" fill-opacity="0.9882353" height="30.0" transform="matrix(0.0313, 0.0, 0.0, 0.0313, 0.0, 36.0)" width="136.0" xlink:href="#font_uni_05_53_32pt_st_s0"/>
+        <use fill="#000000" fill-opacity="0.9882353" height="30.0" transform="matrix(0.0313, 0.0, 0.0, 0.0313, 20.0, 36.0)" width="136.0" xlink:href="#font_uni_05_53_32pt_st_e0"/>
+        <use fill="#000000" fill-opacity="0.9882353" height="30.0" transform="matrix(0.0313, 0.0, 0.0, 0.0313, 40.0, 36.0)" width="136.0" xlink:href="#font_uni_05_53_32pt_st_t0"/>
+        <use fill="#000000" fill-opacity="0.9882353" height="30.0" transform="matrix(0.0313, 0.0, 0.0, 0.0313, 56.0, 36.0)" width="136.0" xlink:href="#font_uni_05_53_32pt_st_t0"/>
+        <use fill="#000000" fill-opacity="0.9882353" height="30.0" transform="matrix(0.0313, 0.0, 0.0, 0.0313, 72.0, 36.0)" width="136.0" xlink:href="#font_uni_05_53_32pt_st_i0"/>
+        <use fill="#000000" fill-opacity="0.9882353" height="30.0" transform="matrix(0.0313, 0.0, 0.0, 0.0313, 80.0, 36.0)" width="136.0" xlink:href="#font_uni_05_53_32pt_st_n0"/>
+        <use fill="#000000" fill-opacity="0.9882353" height="30.0" transform="matrix(0.0313, 0.0, 0.0, 0.0313, 100.0, 36.0)" width="136.0" xlink:href="#font_uni_05_53_32pt_st_g0"/>
+        <use fill="#000000" fill-opacity="0.9882353" height="30.0" transform="matrix(0.0313, 0.0, 0.0, 0.0313, 120.0, 36.0)" width="136.0" xlink:href="#font_uni_05_53_32pt_st_s0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_32pt_st_s0">
+      <path d="M256.0 -192.0 L512.0 -192.0 512.0 -64.0 384.0 -64.0 384.0 64.0 0.0 64.0 0.0 -64.0 256.0 -64.0 256.0 -192.0 0.0 -192.0 0.0 -320.0 128.0 -320.0 128.0 -448.0 512.0 -448.0 512.0 -320.0 256.0 -320.0 256.0 -192.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_32pt_st_e0">
+      <path d="M384.0 -64.0 L512.0 -64.0 512.0 64.0 128.0 64.0 128.0 -64.0 256.0 -64.0 256.0 -192.0 384.0 -192.0 384.0 -64.0 M128.0 -320.0 L128.0 -64.0 0.0 -64.0 0.0 -320.0 128.0 -320.0 128.0 -448.0 512.0 -448.0 512.0 -192.0 384.0 -192.0 384.0 -320.0 128.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_32pt_st_t0">
+      <path d="M256.0 -576.0 L256.0 -448.0 384.0 -448.0 384.0 -320.0 256.0 -320.0 256.0 64.0 128.0 64.0 128.0 -320.0 0.0 -320.0 0.0 -448.0 128.0 -448.0 128.0 -576.0 256.0 -576.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_32pt_st_i0">
+      <path d="M128.0 -320.0 L128.0 64.0 0.0 64.0 0.0 -320.0 128.0 -320.0 M128.0 -576.0 L128.0 -448.0 0.0 -448.0 0.0 -576.0 128.0 -576.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_32pt_st_n0">
+      <path d="M512.0 -320.0 L512.0 64.0 384.0 64.0 384.0 -320.0 512.0 -320.0 M384.0 -320.0 L128.0 -320.0 128.0 64.0 0.0 64.0 0.0 -448.0 384.0 -448.0 384.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_32pt_st_g0">
+      <path d="M384.0 320.0 L128.0 320.0 128.0 192.0 384.0 192.0 384.0 320.0 M384.0 -320.0 L512.0 -320.0 512.0 192.0 384.0 192.0 384.0 64.0 128.0 64.0 128.0 -64.0 384.0 -64.0 384.0 -320.0 128.0 -320.0 128.0 -448.0 384.0 -448.0 384.0 -320.0 M128.0 -320.0 L128.0 -64.0 0.0 -64.0 0.0 -320.0 128.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite16" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite17" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="text13" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="28.0" xlink:href="#font_uni_05_53_16pt_st_s0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 10.0, 18.0)" width="28.0" xlink:href="#font_uni_05_53_16pt_st_e0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 20.0, 18.0)" width="28.0" xlink:href="#font_uni_05_53_16pt_st_l0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 24.0, 18.0)" width="28.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="text14" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="44.0" xlink:href="#font_uni_05_53_16pt_st_b0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 10.0, 18.0)" width="44.0" xlink:href="#font_uni_05_53_16pt_st_a0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 20.0, 18.0)" width="44.0" xlink:href="#font_uni_05_53_16pt_st_c0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 30.0, 18.0)" width="44.0" xlink:href="#font_uni_05_53_16pt_st_k0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 40.0, 18.0)" width="44.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_b0">
+      <path d="M384.0 -320.0 L512.0 -320.0 512.0 -64.0 384.0 -64.0 384.0 -320.0 128.0 -320.0 128.0 -64.0 384.0 -64.0 384.0 64.0 0.0 64.0 0.0 -576.0 128.0 -576.0 128.0 -448.0 384.0 -448.0 384.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_k0">
+      <path d="M512.0 -192.0 L512.0 64.0 384.0 64.0 384.0 -192.0 512.0 -192.0 M384.0 -448.0 L512.0 -448.0 512.0 -320.0 384.0 -320.0 384.0 -448.0 M384.0 -320.0 L384.0 -192.0 256.0 -192.0 256.0 -320.0 384.0 -320.0 M128.0 -576.0 L128.0 -192.0 256.0 -192.0 256.0 -64.0 128.0 -64.0 128.0 64.0 0.0 64.0 0.0 -576.0 128.0 -576.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite18" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.45, 0.5)">
+      <use ffdec:characterId="27" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.45, -0.5)" width="102.85" xlink:href="#sprite19"/>
+      <use ffdec:characterId="28" height="7.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 28.0, 7.0)" width="45.0" xlink:href="#text15"/>
+    </g>
+    <g id="sprite19" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.5)">
+      <use ffdec:characterId="26" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, -0.5)" width="102.85" xlink:href="#shape3"/>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.5)">
+      <path d="M102.4 20.0 L0.55 20.0 0.55 0.0 102.4 0.0 102.4 20.0" fill="#cacad0" fill-rule="evenodd" stroke="none"/>
+      <path d="M102.4 20.0 L0.55 20.0 0.55 0.0 102.4 0.0 102.4 20.0 Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    </g>
+    <g id="text15" transform="matrix(1.0, 0.0, 0.0, 1.0, -22.0, -4.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 22.0, 9.0)" width="45.0" xlink:href="#font_uni_05_53_8pt_st_m0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 30.0, 9.0)" width="45.0" xlink:href="#font_uni_05_53_8pt_st_a0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 35.0, 9.0)" width="45.0" xlink:href="#font_uni_05_53_8pt_st_i0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 37.0, 9.0)" width="45.0" xlink:href="#font_uni_05_53_8pt_st_n0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 45.0, 9.0)" width="45.0" xlink:href="#font_uni_05_53_8pt_st_m0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 53.0, 9.0)" width="45.0" xlink:href="#font_uni_05_53_8pt_st_e0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 58.0, 9.0)" width="45.0" xlink:href="#font_uni_05_53_8pt_st_n0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 63.0, 9.0)" width="45.0" xlink:href="#font_uni_05_53_8pt_st_u0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_8pt_st_m0">
+      <path d="M896.0 -256.0 L896.0 128.0 768.0 128.0 768.0 -256.0 896.0 -256.0 M512.0 -256.0 L512.0 128.0 384.0 128.0 384.0 -256.0 512.0 -256.0 512.0 -384.0 768.0 -384.0 768.0 -256.0 512.0 -256.0 M384.0 -256.0 L128.0 -256.0 128.0 128.0 0.0 128.0 0.0 -384.0 384.0 -384.0 384.0 -256.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_a0">
+      <path d="M384.0 0.0 L384.0 -256.0 512.0 -256.0 512.0 128.0 128.0 128.0 128.0 0.0 384.0 0.0 M128.0 -256.0 L128.0 0.0 0.0 0.0 0.0 -256.0 128.0 -256.0 128.0 -384.0 384.0 -384.0 384.0 -256.0 128.0 -256.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_i0">
+      <path d="M128.0 -256.0 L128.0 128.0 0.0 128.0 0.0 -256.0 128.0 -256.0 M128.0 -512.0 L128.0 -384.0 0.0 -384.0 0.0 -512.0 128.0 -512.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_n0">
+      <path d="M512.0 -256.0 L512.0 128.0 384.0 128.0 384.0 -256.0 512.0 -256.0 M384.0 -256.0 L128.0 -256.0 128.0 128.0 0.0 128.0 0.0 -384.0 384.0 -384.0 384.0 -256.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_e0">
+      <path d="M384.0 0.0 L512.0 0.0 512.0 128.0 128.0 128.0 128.0 0.0 256.0 0.0 256.0 -128.0 384.0 -128.0 384.0 0.0 M128.0 -384.0 L512.0 -384.0 512.0 -128.0 384.0 -128.0 384.0 -256.0 128.0 -256.0 128.0 -384.0 M128.0 -256.0 L128.0 0.0 0.0 0.0 0.0 -256.0 128.0 -256.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_u0">
+      <path d="M384.0 0.0 L384.0 -384.0 512.0 -384.0 512.0 128.0 128.0 128.0 128.0 0.0 384.0 0.0 M128.0 -384.0 L128.0 0.0 0.0 0.0 0.0 -384.0 128.0 -384.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite20" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.45, 0.5)">
+      <use ffdec:characterId="27" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.45, -0.5)" width="102.85" xlink:href="#sprite19"/>
+      <use ffdec:characterId="321" height="7.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 19.0, 7.0)" width="64.0" xlink:href="#text16"/>
+    </g>
+    <g id="text16" transform="matrix(1.0, 0.0, 0.0, 1.0, -13.0, -4.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 13.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_c0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 18.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_l0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 20.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_e0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 25.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_a0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 30.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_r0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 37.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_l0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 39.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_o0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 44.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_c0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 49.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_a0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 54.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_l0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 59.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_d0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 64.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_a0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 69.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_t0"/>
+        <use fill="#000000" height="7.0" transform="matrix(0.0078, 0.0, 0.0, 0.0078, 73.0, 9.0)" width="64.0" xlink:href="#font_uni_05_53_8pt_st_a0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_8pt_st_c0">
+      <path d="M512.0 0.0 L512.0 128.0 128.0 128.0 128.0 0.0 512.0 0.0 M128.0 -256.0 L128.0 0.0 0.0 0.0 0.0 -256.0 128.0 -256.0 128.0 -384.0 512.0 -384.0 512.0 -256.0 128.0 -256.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_l0">
+      <path d="M128.0 -512.0 L128.0 128.0 0.0 128.0 0.0 -512.0 128.0 -512.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_r0">
+      <path d="M128.0 -256.0 L256.0 -256.0 256.0 -128.0 128.0 -128.0 128.0 128.0 0.0 128.0 0.0 -384.0 128.0 -384.0 128.0 -256.0 M256.0 -384.0 L384.0 -384.0 384.0 -256.0 256.0 -256.0 256.0 -384.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_o0">
+      <path d="M384.0 -256.0 L512.0 -256.0 512.0 0.0 384.0 0.0 384.0 -256.0 128.0 -256.0 128.0 -384.0 384.0 -384.0 384.0 -256.0 M384.0 0.0 L384.0 128.0 128.0 128.0 128.0 0.0 384.0 0.0 M128.0 -256.0 L128.0 0.0 0.0 0.0 0.0 -256.0 128.0 -256.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_d0">
+      <path d="M128.0 -384.0 L384.0 -384.0 384.0 -512.0 512.0 -512.0 512.0 128.0 128.0 128.0 128.0 0.0 384.0 0.0 384.0 -256.0 128.0 -256.0 128.0 -384.0 M128.0 -256.0 L128.0 0.0 0.0 0.0 0.0 -256.0 128.0 -256.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_8pt_st_t0">
+      <path d="M256.0 -512.0 L256.0 -384.0 384.0 -384.0 384.0 -256.0 256.0 -256.0 256.0 128.0 128.0 128.0 128.0 -256.0 0.0 -256.0 0.0 -384.0 128.0 -384.0 128.0 -512.0 256.0 -512.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text17" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_S0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 12.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_i0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 16.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_n0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 26.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_g0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 36.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_l0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 40.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_e0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 56.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_P0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 68.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_l0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 72.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_a0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 82.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_y0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 92.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_e0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 102.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_r0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 110.0, 18.0)" width="114.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_S0">
+      <path d="M128.0 -448.0 L128.0 -576.0 640.0 -576.0 640.0 -448.0 128.0 -448.0 128.0 -320.0 0.0 -320.0 0.0 -448.0 128.0 -448.0 M512.0 -64.0 L512.0 64.0 0.0 64.0 0.0 -64.0 512.0 -64.0 512.0 -192.0 640.0 -192.0 640.0 -64.0 512.0 -64.0 M128.0 -320.0 L512.0 -320.0 512.0 -192.0 128.0 -192.0 128.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text18" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="56.0" xlink:href="#font_uni_05_53_16pt_st_C0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 12.0, 18.0)" width="56.0" xlink:href="#font_uni_05_53_16pt_st_o0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 22.0, 18.0)" width="56.0" xlink:href="#font_uni_05_53_16pt_st_-0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 32.0, 18.0)" width="56.0" xlink:href="#font_uni_05_53_16pt_st_o0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 42.0, 18.0)" width="56.0" xlink:href="#font_uni_05_53_16pt_st_p0"/>
+        <use fill="#000000" height="16.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 52.0, 18.0)" width="56.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_C0">
+      <path d="M128.0 -448.0 L128.0 -576.0 512.0 -576.0 512.0 -448.0 128.0 -448.0 128.0 -64.0 0.0 -64.0 0.0 -448.0 128.0 -448.0 M512.0 -64.0 L512.0 64.0 128.0 64.0 128.0 -64.0 512.0 -64.0 512.0 -192.0 640.0 -192.0 640.0 -64.0 512.0 -64.0 M640.0 -320.0 L512.0 -320.0 512.0 -448.0 640.0 -448.0 640.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_uni_05_53_16pt_st_-0">
+      <path d="M0.0 -320.0 L512.0 -320.0 512.0 -192.0 0.0 -192.0 0.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite21" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite22" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite23" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite24" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="257" height="21.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="58.55" xlink:href="#sprite1"/>
+      <use ffdec:characterId="258" height="20.5" id="txtLabel" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.95, 0.0)" width="36.0" xlink:href="#text0"/>
+    </g>
+    <g id="sprite25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <use ffdec:characterId="329" height="146.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="344.95" xlink:href="#shape4"/>
+    </g>
+    <g id="shape4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+      <path d="M343.95 145.0 L0.0 145.0 0.0 0.0 343.95 0.0 343.95 145.0 Z" fill="none" stroke="#7a7989" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    </g>
+    <g id="text19" transform="matrix(1.0, 0.0, 0.0, 1.0, 71.0, -8.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -71.0, 0.0)">
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 0.0, 18.0)" width="78.0" xlink:href="#font_uni_05_53_16pt_st_F0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 12.0, 18.0)" width="78.0" xlink:href="#font_uni_05_53_16pt_st_l0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 16.0, 18.0)" width="78.0" xlink:href="#font_uni_05_53_16pt_st_a0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 26.0, 18.0)" width="78.0" xlink:href="#font_uni_05_53_16pt_st_v0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 36.0, 18.0)" width="78.0" xlink:href="#font_uni_05_53_16pt_st_o0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 46.0, 18.0)" width="78.0" xlink:href="#font_uni_05_53_16pt_st_u0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 56.0, 18.0)" width="78.0" xlink:href="#font_uni_05_53_16pt_st_r0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 64.0, 18.0)" width="78.0" xlink:href="#font_uni_05_53_16pt_st_s0"/>
+        <use fill="#000000" height="12.0" transform="matrix(0.0156, 0.0, 0.0, 0.0156, 74.0, 18.0)" width="78.0" xlink:href="#font_uni_05_53_16pt_st_:0"/>
+      </g>
+    </g>
+    <g id="font_uni_05_53_16pt_st_F0">
+      <path d="M128.0 -320.0 L512.0 -320.0 512.0 -192.0 128.0 -192.0 128.0 64.0 0.0 64.0 0.0 -576.0 640.0 -576.0 640.0 -448.0 128.0 -448.0 128.0 -320.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>
