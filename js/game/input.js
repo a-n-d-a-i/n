@@ -36,6 +36,9 @@ export class SimpleInput {
     this.posx = 0; this.posy = 0; this.oldx = 0; this.oldy = 0;
     this.downposx = 0; this.downposy = 0; this.upposx = 0; this.upposy = 0;
     this.keys = new Array(256).fill(false);
+    // Virtual key presses (from the gamepad).  Kept apart from the physical
+    // key state so releasing a pad button never cancels a held keyboard key.
+    this.virtualkeys = new Array(256).fill(false);
     this.oldkeys = new Array(256).fill(false);
     this.keytriggers = new Array(256).fill(0);
     root.addEventListener("mouseMove", e => { this.xmouse = e.stageX; this.ymouse = e.stageY; });
@@ -66,11 +69,12 @@ export class SimpleInput {
     this.mouseWasDown = this.mouseIsDown;
     this.posx = this.xmouse; this.posy = this.ymouse;
     for (let i = 0; i < this.keys.length; i++) {
-      if (this.IsKeyDown(i)) {
+      const down = this.keys[i] || this.virtualkeys[i];
+      if (down) {
         if (!this.oldkeys[i]) this.keytriggers[i] = 1;
       } else if (this.oldkeys[i]) this.keytriggers[i] = -1;
+      this.oldkeys[i] = down;
     }
-    for (let i = 0; i < this.oldkeys.length; i++) this.oldkeys[i] = this.keys[i];
   }
   GetMousePos() { return { x: this.xmouse, y: this.ymouse }; }
   GetMousePos_Down() { return { x: this.downposx, y: this.downposy }; }
@@ -79,7 +83,8 @@ export class SimpleInput {
   IsMouseDown() { return this.stateDown; }
   IsMousePressed() { return this.statePressed; }
   IsMouseReleased() { return this.stateReleased; }
-  IsKeyDown(k) { return this.keys[k]; }
+  IsKeyDown(k) { return this.keys[k] || this.virtualkeys[k]; }
+  SetVirtualKey(k, down) { this.virtualkeys[k] = !!down; }
   IsOnePressed(list) { for (const k of list) if (this.keytriggers[k] > 0) return true; return false; }
   IsKeyPressed(k) { return this.keytriggers[k] > 0; }
   IsKeyReleased(k) { return this.keytriggers[k] < 0; }

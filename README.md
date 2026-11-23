@@ -32,10 +32,14 @@ Then open <http://localhost:8000/> in a browser with WebGL2 enabled.
 | Quit (while paused) | Q |
 | Toggle 2-player mode (episode select) | N |
 
-Menus are mouse-driven, with arrow keys + Z (or Enter/Space) for keyboard
+Menus are mouse-driven, with the menu keys (arrows + Z by default) for keyboard
 navigation. Progress is saved in `localStorage`. In 2-player mode the players
 use Shift/A/D/T and N/&lt;/&gt;/O. All bindings (solo, co-op and menu keys),
 the volume, and the ninja flavour can be changed on the settings screen.
+
+**Gamepad:** the first connected controller drives player 1. D-pad left/right
+move (the left stick also works), D-pad up or the X/Cross face button jumps,
+and the D-pad/X also navigate and select in menus. No configuration is needed.
 
 ## What is included
 

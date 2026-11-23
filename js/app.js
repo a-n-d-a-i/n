@@ -365,6 +365,7 @@ export class GameApp {
   // ---------------------------------------------------------------- tick
   tick() {
     this._thisTick = getTimer();
+    this.pollGamepad();
     this.input.Tick();
     switch (this._uiState) {
       case MenuStates.PLAYING_GAME: this.tickGame(); break;
@@ -373,6 +374,60 @@ export class GameApp {
     }
     if (this._gameOver) this._gameOver.tick();
     this._lastTick = this._thisTick;
+  }
+  /* Controller support: the first connected gamepad controls player 0.
+   * The D-pad moves, D-pad up and the X/Cross face button jump.  The pad
+   * presses the keys currently bound to those actions (so rebinding still
+   * applies), and pressing a button also drives menu navigation. */
+  pollGamepad() {
+    let gp = null;
+    if (typeof navigator !== "undefined" && navigator.getGamepads) {
+      const pads = navigator.getGamepads();
+      for (let i = 0; i < pads.length; i++) {
+        if (pads[i] && pads[i].connected) { gp = pads[i]; break; }
+      }
+    }
+    const pressed = (i) => !!(gp && gp.buttons[i] &&
+      (gp.buttons[i].pressed || gp.buttons[i].value > 0.5));
+    const axisX = gp && gp.axes.length > 0 ? gp.axes[0] : 0;
+    const state = {
+      left: pressed(14) || axisX < -0.5,    // D-pad left / left stick
+      right: pressed(15) || axisX > 0.5,    // D-pad right / left stick
+      up: pressed(12),                      // D-pad up (jump in game)
+      down: pressed(13),                    // D-pad down (menus only)
+      jump: pressed(2) || pressed(0),       // X / Cross (and A for pads that label it so)
+    };
+    const jumpKey = this.playerKeys.getActionKeyForPlayer(PlayerKeys.JUMP, 0);
+    const leftKey = this.playerKeys.getActionKeyForPlayer(PlayerKeys.LEFT, 0);
+    const rightKey = this.playerKeys.getActionKeyForPlayer(PlayerKeys.RIGHT, 0);
+    const g = this.globalKeys;
+    const actionKeys = {
+      left: [leftKey, g.left],
+      right: [rightKey, g.right],
+      up: [jumpKey, g.up],
+      down: [g.down],
+      jump: [jumpKey],
+    };
+    const menuKey = { left: g.left, right: g.right, up: g.up, down: g.down, jump: g.select };
+    if (!this._padState) this._padState = {};
+    const codes = [];
+    for (const action in actionKeys) {
+      const now = state[action], was = !!this._padState[action];
+      if (now) {
+        for (const code of actionKeys[action]) {
+          if (code != null && code >= 0 && !codes.includes(code)) codes.push(code);
+        }
+      }
+      if (now && !was && this.currentScreen && this.currentScreen.handleKey) {
+        this.currentScreen.handleKey(menuKey[action]);
+      }
+      this._padState[action] = now;
+    }
+    for (const code of this._padVirtual || []) {
+      if (!codes.includes(code)) this.input.SetVirtualKey(code, false);
+    }
+    for (const code of codes) this.input.SetVirtualKey(code, true);
+    this._padVirtual = codes;
   }
   tickGame() {
     switch (this._gameState) {
